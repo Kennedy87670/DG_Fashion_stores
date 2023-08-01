@@ -52,9 +52,9 @@ The Competitive territory
 
 ## Data Modelling
 I had to create relationships between the three tables 
-- For the Names table
- columns IDshop many to many relationships with Shop Territory ShopID
-- Competitive territory table
+- For the Names table,
+columns IDshop many to many relationships with Shop Territory ShopID
+- Competitive territory table, 
 Comp_territory many to many relationships with the Names table competitive territory
 
 
