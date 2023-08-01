@@ -51,9 +51,9 @@ I replaced the null with empty space for the two columns
 ## Data Modelling
 I had to create relationships between the three tables 
 - For the Names table
- columns IDshop one to many relationships with Shop Territory shopID
+ columns IDshop many to many relationships with Shop Territory shopID
 - Competitive territory table
-Comp_territory one many relationships with the Names table competitive territory
+Comp_territory many to many relationships with the Names table competitive territory
 
 
 ![]( data_modelling.png)
