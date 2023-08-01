@@ -17,9 +17,9 @@ My current training at Utiva included a Capstone Project focused on the BG Group
 - 	Territory
    
 ## Skills/Concepts Demonstrated
-Power Query
-Dashboard 
-Data Modelling
+- Power Query
+- Dashboard 
+- Data Modelling
 
 ## Data Preparation / Cleaning:
 The dataset was shared with students of Utiva., showing sales of BG Group premium fashion lines.
@@ -29,21 +29,23 @@ Shop Territory (3 columns 105 rows)
 Competitive Territory (2 columns and 11 rows)
 
 ## Data cleaning and transformation
- For the shop territory,  I had to split the city column
+ For the shop territory,  
+ - I had to split the city column
 
 ![]( shop_territory_c.png)
 
 ![]( shop_territory_cleaned.png)
 
 
-Name table I had to split the names column, set the change the data type for sales, annual, sales, and Annual sales per selling area to whole number data type
+For the Name table 
+- I had to split the names column, set change the data type for sales, annual, sales, and Annual sales per selling area to whole number data type
 
 ![]( name_c.png)
 
 ![]( name_cleaned.png)
 
 The Competitive territory
-I replaced the null with empty space for the two columns
+- I replaced the null with empty space for the two columns
 ![]( competitive_territory_c.png)
 
 ![]( competitive_territory_cleaned.png)
@@ -51,7 +53,7 @@ I replaced the null with empty space for the two columns
 ## Data Modelling
 I had to create relationships between the three tables 
 - For the Names table
- columns IDshop many to many relationships with Shop Territory shopID
+ columns IDshop many to many relationships with Shop Territory ShopID
 - Competitive territory table
 Comp_territory many to many relationships with the Names table competitive territory
 
