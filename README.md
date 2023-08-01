@@ -15,7 +15,7 @@ My current training at Utiva included a Capstone Project focused on the BG Group
 
  Create a dashboard with the report and sliceable by:
 - 	Territory
-- 	 
+   
 ## Skills/Concepts Demonstrated
 Power Query
 Dashboard 
@@ -53,7 +53,7 @@ I had to create relationships between the three tables
 - For the Names table
  columns IDshop one to many relationships with Shop Territory shopID
 - Competitive territory table
-Comp_territory one to many relationships with the Names table competitive territory
+Comp_territory one many relationships with the Names table competitive territory
 
 
 ![]( data_modelling.png)
