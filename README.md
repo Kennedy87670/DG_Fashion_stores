@@ -60,7 +60,7 @@ Comp_territory one to many relationships with the Names table competitive territ
 
 
 ## My Dashboard
-![]( DASHBOARD.png)
+![](DASHBAORD.png)
 
 
 
