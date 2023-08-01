@@ -64,5 +64,11 @@ Comp_territory one many relationships with the Names table competitive territory
 
 To interact with the dashboard: https://app.powerbi.com/groups/me/reports/ce44ad51-255e-4abd-ba24-52229d7814c7/ReportSection?experience=power-bi
 
+## Recommendation and Conclusion
+1.	Agents that generate the highest revenue should be rewarded, while agents that have the lowest revenue should be evaluated to identify areas for improvement.
+2.	To maximize our reach, we should consider opening more stores in the top 5 cities with large sales.
+
+
+
 
 
