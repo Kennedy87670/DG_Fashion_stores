@@ -6,8 +6,8 @@ My current training at Utiva included a Capstone Project focused on the BG Group
 
 
 ## Problem statement 
--	What is the top sales by City?
-- What is the top 10 agents per sales value?
+-	What are the top sales by City?
+- What are the top 10 agents per sales value?
 - Sales territory?
 - Sales by validation?
 - Sales chain category?
@@ -15,9 +15,9 @@ My current training at Utiva included a Capstone Project focused on the BG Group
 
  Create a dashboard with the report and sliceable by:
 - 	Territory
-- 	
+- 	 
 ## Skills/Concepts Demonstrated
-Power query
+Power Query
 Dashboard 
 Data Modelling
 
@@ -29,8 +29,38 @@ Shop Territory (3 columns 105 rows)
 Competitive Territory (2 columns and 11 rows)
 
 ## Data cleaning and transformation
- For the shop territory  I had to split city column
+ For the shop territory,  I had to split the city column
 
+![]( shop_territory_c.png)
+
+![]( shop_territory_cleaned.png)
+
+
+Name table I had to split the names column, set the change the data type for sales, annual, sales, and Annual sales per selling area to whole number data type
+
+![]( name_c.png)
+
+![]( name_cleaned.png)
+
+The Competitive territory
+I replaced the null with empty space for the two columns
+![]( competitive_territory_c.png)
+
+![]( competitive_territory_cleaned.png)
+
+## Data Modelling
+I had to create relationships between the three tables 
+- For the Names table
+ columns IDshop one to many relationships with Shop Territory shopID
+- Competitive territory table
+Comp_territory one to many relationships with the Names table competitive territory
+
+
+![]( data_modelling.png)
+
+
+## My Dashboard
+![]( DASHBOARD.png)
 
 
 
