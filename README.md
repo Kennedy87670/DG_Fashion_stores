@@ -62,7 +62,7 @@ Comp_territory one many relationships with the Names table competitive territory
 ## My Dashboard
 ![](DASHBAORD.png)
 
-to interact with the dashboard: https://app.powerbi.com/groups/me/reports/ce44ad51-255e-4abd-ba24-52229d7814c7/ReportSection?experience=power-bi
+To interact with the dashboard: https://app.powerbi.com/groups/me/reports/ce44ad51-255e-4abd-ba24-52229d7814c7/ReportSection?experience=power-bi
 
 
 
